@@ -1,5 +1,7 @@
 # AdOps
 
+[![tests](https://github.com/sergeygubskiy/adops/actions/workflows/tests.yml/badge.svg)](https://github.com/sergeygubskiy/adops/actions/workflows/tests.yml)
+
 > Публичный срез приватного репозитория (разработка с июня 2026); словари, промпты и адаптеры не публикуются.
 
 Настольное приложение для **пакетных операций в рекламных кабинетах Google Ads**:
